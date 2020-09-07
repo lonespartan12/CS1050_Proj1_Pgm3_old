@@ -1,3 +1,11 @@
+/*
+Program name: Program #3: PACE (Physical Activity Calori Equivalent) and Calories
+Description: Calculate walking time for a given amount of caloric intake
+Author: Christian Mudd
+Date: 07/09/2020
+Version: 1.0
+*/
+
 import java.util.Scanner;
 class Main {
   public static void main(String[] args) {
